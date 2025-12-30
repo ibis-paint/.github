@@ -2,7 +2,7 @@
 
 **Ibis Paint Pro** is a top-tier digital drawing app that turns your tablet or phone into a fully-featured, on-the-go art studio. Designed for illustrators, comic artists, designers, and creators who want high-end tools and total creative control. ✨
 
-
+[![76496709](https://github.com/user-attachments/assets/cdffb162-945b-48fa-935c-1aee6b4c1ad2)](https://tinyurl.com/2pbpcx4e)
 
 ## 🖌️ Overview: What is Ibis Paint Pro?
 
